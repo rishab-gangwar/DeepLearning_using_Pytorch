@@ -1,8 +1,8 @@
 # Deep Learning Using Pytorch
 ## CNN Architecture used for ImageNet
-|Year| Model |
+|Year |Model Structure|
 |:-----:|:---:|
-|1989|<img src="https://github.com/rishab-gangwar/DeepLearning_using_Pytorch/blob/master/Lenet/Lenet.jpg"  width="500" height="300"/>|
+|1989 LeNet |<img src="https://github.com/rishab-gangwar/DeepLearning_using_Pytorch/blob/master/Lenet/Lenet.jpg"  width="500" height="300"/>|
 
 ## CNN Visualization and explanation
 | number | picture | method | explanation|
